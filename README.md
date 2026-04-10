@@ -1,6 +1,6 @@
 # ⚡ Intel FPGA DE1-SoC Digital Logic Labs
 
-This repository contains my digital logic design labs performed on the **Terasic DE1-SoC Development Kit** (Cyclone V FPGA) during my research internship at System On Chip (SoC) Lab in the summers of 2025. 
+This repository contains my digital logic design labs performed on the **Terasic DE1-SoC Development Kit** (Cyclone V FPGA) during my research internship at System On Chip (SoC) Lab in the summers of 2025. The lab manuals are available on FPGAcademy.
 
 ## 🛠️ Hardware & Tools
 - **Board:** Intel/Terasic DE1-SoC
